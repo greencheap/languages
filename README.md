@@ -4,7 +4,7 @@ This repository contains the Pagekit language files. It is frequently updated wi
 
 ## Contributing
 
-Translations are managed via [Transifex](https://www.transifex.com/pagekit/pagekit-cms/). Please do not send any pull requests to this repository. Instead, we are thankful for every contribution to our translation files on Transifex.
+Translations are managed via [Transifex](https://www.transifex.com/greencheap/greencheap-cms/). Please do not send any pull requests to this repository. Instead, we are thankful for every contribution to our translation files on Transifex.
 
 ## Maintainer instructions
 

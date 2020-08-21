@@ -30,11 +30,11 @@ class Fetcher
      */
     protected $coverage;
 
-    public function __construct($username, $password, $path, $coverage = 0.0, $project = "pagekit-cms")
+    public function __construct($username, $password, $path, $coverage = 0.0, $project = "greencheap-cms")
     {
         $this->api       = new TransifexApi($username, $password, $project);
         $this->path      = $path;
-        $this->resources = ['system', 'blog', 'theme-one'];
+        $this->resources = ['system', 'blog'];
         $this->coverage  = $coverage;
     }
 
