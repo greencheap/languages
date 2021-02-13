@@ -1,0 +1,16 @@
+<?php return array (
+  'Wait...' => 'Bekleyin..',
+  'Test API' => 'Test API',
+  'Report Style' => 'Rapor Stili',
+  'Tag' => 'Etiket',
+  'Value' => 'Değer',
+  'Date' => 'Tarih',
+  'Chart' => 'Grafikler',
+  'Open The Settings' => 'Ayarları Aç',
+  'Google Analytics Settings' => 'Google Analiz Ayarları',
+  'View Id' => 'Görüntüleme ID\'si',
+  'Go To Analytics Docs' => 'Analiz Dokümantasyonuna Git',
+  'Save' => 'Kayıt',
+  'Not Found View ID' => 'Görüntüleme ID\'si Bulunamadı',
+  'Successfully connected to Analytics' => 'Analiz ile başarılı bir şekilde bağlantı yapıldı.',
+);

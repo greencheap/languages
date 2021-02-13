@@ -34,7 +34,7 @@ class Fetcher
     {
         $this->api       = new TransifexApi($username, $password, $project);
         $this->path      = $path;
-        $this->resources = ['system' , 'blog' , 'docs' , 'seo' , 'brain' , 'discord' , 'theme-greencheap'];
+        $this->resources = ['system' , 'blog' , 'docs' , 'seo' , 'brain' , 'discord' , 'theme-greencheap' , 'google-analytics'];
         $this->coverage  = $coverage;
     }
 
